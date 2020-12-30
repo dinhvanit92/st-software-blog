@@ -1,7 +1,7 @@
 # Documentation
 ## Install
 
-**1. Clone file ghost về máy chủ host bằng dòng lệnh:**
+**1. Clone file ghost về máy host bằng dòng lệnh:**
 
 ```
 git clone https://github.com/dinhvanit92/st-software-blog.git
@@ -34,4 +34,4 @@ docker build -t stsoftware:v1 -f Dockerfile .
 docker run -it -d --name stsoftware -h vghost -p 80:2368 stsoftware:v1
 ```
 
-**CÀI ĐẶT THÀNH CÔNG**
+**CÀI ĐẶT THÀNH CÔNG ==> CHECK DOMAIN XEM KẾT QUẢ NHÉ**
